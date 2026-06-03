@@ -1,0 +1,6 @@
+{
+  "name": "Employee Attendance System",
+  "description": "Secure Khmer Employee Attendance System featuring strict geofencing, live camera verification, and server-side timestamp validation to prevent tampering.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
